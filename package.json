@@ -1,0 +1,14 @@
+{
+  "name": "task-day-34",
+  "version": "1.0.0",
+  "description": "Day 34 task Hall booking API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vijay S S",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
